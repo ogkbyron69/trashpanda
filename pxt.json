@@ -1,0 +1,30 @@
+{
+    "name": "TrashPanda",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "light": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.12.12",
+        "tag": "v0.12.12",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/f76d1d08e2739e797680f4a342239a2e50335ad8",
+        "target": "1.12.47",
+        "pxt": "5.17.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
